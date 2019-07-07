@@ -12,3 +12,5 @@ __1.2 Gradient Descent__
 __1.3 Backpropagation__
 
 __1.4 First Neural Network__
+
+__1.5 Sentiment Analysis (Text)__
