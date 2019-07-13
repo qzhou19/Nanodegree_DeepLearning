@@ -35,4 +35,6 @@ __2.4 Tensor Flow Project (IMAGE): MLP with MNIST - Autoencoder__
 
 __2.5 Tensor Flow Project (IMAGE): CNN with MNIST - Autoencoder__ (convolution & resize for upsampling)  
 
-__2.6 Tensor Flow Project (IMAGE): Transfer Learning - VGG with flower__
+__2.6 Tensor Flow Project (IMAGE): Transfer Learning - VGG with flower__  
+(use pre-trained network layer as input, generate target from folder structure)  
+(batch process setup, check single case results)
