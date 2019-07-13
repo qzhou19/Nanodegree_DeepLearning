@@ -23,3 +23,16 @@ __1.8 Tensor Flow Project (IMAGE): notMNIST__
 (TF model setup and project flows - batch processing, loss tracking)  
 
 __1.9 Tensor Flow Project (IMAGE) : MLP with MNIST__ (relu, dropout)
+
+## Section 2
+__2.1 Keras Project (IMAGE): MLP with MNIST__ (text image visulization)
+
+__2.2 Keras Project (IMAGE): CNN with CIFAR-10__
+
+__2.3 Tensor Flow Project (IMAGE) : CNN with MNIST__  
+
+__2.4 Tensor Flow Project (IMAGE): MLP with MNIST - Autoencoder__  
+
+__2.5 Tensor Flow Project (IMAGE): CNN with MNIST - Autoencoder__ (convolution & resize for upsampling)  
+
+__2.6 Tensor Flow Project (IMAGE): Transfer Learning - VGG with flower__
