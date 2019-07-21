@@ -38,3 +38,14 @@ __2.5 Tensor Flow Project (IMAGE): CNN with MNIST - Autoencoder__ (convolution &
 __2.6 Tensor Flow Project (IMAGE): Transfer Learning - VGG with flower__  
 (use pre-trained network layer as input, generate target from folder structure)  
 (batch process setup, check single case results)
+
+__2.7 Keras Project (IMAGE): Transfer Learning - Dog Classifier__
+
+## Section 3
+__3.1 Tensor Flow Project (TEXT): RNN - LSTM with Anna__
+
+__3.2 Tensor Flow Project (TEXT): word2vec skip-gram algorithm__
+
+__3.3 Tensor FLow Project (TEXT): RNN with Sentiment Analysis__
+
+__3.4 Tensor Flow Project (TEXT): RNN with TV Script__
