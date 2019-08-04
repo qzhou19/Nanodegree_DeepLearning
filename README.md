@@ -49,3 +49,9 @@ __3.2 Tensor Flow Project (TEXT): word2vec skip-gram algorithm__
 __3.3 Tensor FLow Project (TEXT): RNN with Sentiment Analysis__
 
 __3.4 Tensor Flow Project (TEXT): RNN with TV Script__
+
+## Section 4: Generative Adversarial Network (GAN)
+__4.1 Tensor Flow Project (IMAGE): GAN Intro with MNIST__  
+
+__4.2 Tensor Flow Project (IMAGE): Deep Convolutional GAN - DCGAN with SVHN__  
+(Batch normalization)
