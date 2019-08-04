@@ -3,7 +3,7 @@ Course related codes
 
 Content Index:
 
-### Section 1
+### Section 1: Neural Networks
 __1.1 Perceptron Algorithm__
 
 __1.2 Gradient Descent__
@@ -24,7 +24,7 @@ __1.8 Tensor Flow Project (IMAGE): notMNIST__
 
 __1.9 Tensor Flow Project (IMAGE) : MLP with MNIST__ (relu, dropout)
 
-## Section 2
+## Section 2: Convolutional Networks (CNN)
 __2.1 Keras Project (IMAGE): MLP with MNIST__ (text image visulization)
 
 __2.2 Keras Project (IMAGE): CNN with CIFAR-10__
@@ -41,7 +41,7 @@ __2.6 Tensor Flow Project (IMAGE): Transfer Learning - VGG with flower__
 
 __2.7 Keras Project (IMAGE): Transfer Learning - Dog Classifier__
 
-## Section 3
+## Section 3: Recurrent Networks (RNN)
 __3.1 Tensor Flow Project (TEXT): RNN - LSTM with Anna__
 
 __3.2 Tensor Flow Project (TEXT): word2vec skip-gram algorithm__
